@@ -1,6 +1,6 @@
 ## Habilidades
 
-- Node, Nest, Micro Services, SQL, GIT
+- Javascript, TypeScript, Node, Nest, Micro Services, SQL, GIT
 
 ## O que nós buscamos
 
