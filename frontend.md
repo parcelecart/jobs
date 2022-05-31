@@ -1,6 +1,6 @@
 ## Habilidades
 
-- Sólidos conhecimentos em HTML, CSS, SASS e JavaScript
+- Sólidos conhecimentos em HTML, CSS, SASS, JavaScript e TypeScript
 - Experiência com React
 - Integração com REST APIs
 
